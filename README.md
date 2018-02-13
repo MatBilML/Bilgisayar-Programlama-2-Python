@@ -1,2 +1,3 @@
-# Bilgisayar-Programlama-2-Python-
+# Bilgisayar Programlama-2(Python)
+
 Ders Notları
